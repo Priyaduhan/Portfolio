@@ -3,7 +3,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section id="hero" className="h-screen flex items-center justify-center">
+    <section id="Home" className="h-screen flex items-center justify-center">
       <div className="text-center">
         <img
           src={profile}

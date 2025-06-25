@@ -2,15 +2,15 @@ import React from "react";
 
 const About = () => {
   return (
-    <section id="about" className="h-screen flex items-center px-6">
+    <section id="About" className="h-screen flex items-center px-6">
       <div className="max-w-3xl mx-auto text-center">
         <h2 className="text-4xl font-bold mb-6 text-cyan-400">About Me</h2>
 
         <p className="text-gray-300 text-lg mb-8">
           I’m a frontend developer passionate about building responsive,
-          accessible, and modern web applications.
-          I enjoy creating seamless user experiences, writing clean code, and
-          constantly learning new technologies to grow as a developer.
+          accessible, and modern web applications. I enjoy creating seamless
+          user experiences, writing clean code, and constantly learning new
+          technologies to grow as a developer.
         </p>
 
         {/* Education Section */}
@@ -37,9 +37,7 @@ const About = () => {
                 Guru Jambheshwar University of Science & Technology,Hisar –
                 Completed
               </p>
-              <p className="text-gray-400 text-[13px]">
-                80.6%
-              </p>
+              <p className="text-gray-400 text-[13px]">80.6%</p>
             </div>
           </div>
         </div>

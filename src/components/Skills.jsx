@@ -15,7 +15,7 @@ const Skills = () => {
   ];
 
   return (
-    <section id="skills" className="h-screen flex items-center">
+    <section id="Skills" className="h-screen flex items-center">
       <div className="container mx-auto px-6 mt-[230px] sm:mt-[2px]">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-[100px] bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent leading-tight pb-2">

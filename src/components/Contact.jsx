@@ -75,7 +75,7 @@ const Contact = () => {
 
   return (
     <section
-      id="contact"
+      id="Contact"
       className="min-h-screen px-6 flex items-center bg-gray-900"
     >
       <div className="max-w-xl mx-auto w-full py-15">
@@ -83,9 +83,6 @@ const Contact = () => {
           <h2 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent mb-4">
             Let's Connect!
           </h2>
-          <p className="text-gray-300 text-lg">
-            Have a project in mind? I'd love to hear from you.
-          </p>
         </div>
 
         <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-2xl p-8 shadow-2xl">
